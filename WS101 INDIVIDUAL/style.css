@@ -310,7 +310,7 @@ button:active {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-#container img[src="/images/kiddo.jpg"] {
+#container img[src="kiddo.jpg"] {
     max-width: 22%;
     position: absolute;
     border-color: #161616;
@@ -320,7 +320,7 @@ button:active {
     border-radius: 50px;
 }
 
-#container img[src="/images/flyff.png"] {
+#container img[src="flyff.png"] {
     max-width: 25%;
     position: absolute;
     border-color: #161616;
